@@ -1,6 +1,5 @@
-package com.pmj.template.config;
+package com.pmj.template.controller;
 
-import com.pmj.template.controller.ApiResponse;
 import com.pmj.template.dto.request.LoginRequest;
 import com.pmj.template.dto.request.SignupRequest;
 import com.pmj.template.dto.response.JwtAuthResponse;
