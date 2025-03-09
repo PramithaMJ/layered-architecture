@@ -103,7 +103,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/spring-boot-layered-architecture.git
+   git clone https://github.com/PramithaMJ/layered-architecture.git
    cd spring-boot-layered-architecture
    ```
 
